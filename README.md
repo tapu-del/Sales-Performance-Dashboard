@@ -1,7 +1,5 @@
 # Sales-Performance-Dashboard
 
-# Sales Performance Dashboard
-
 ## Project Overview
 Analyzed 2,824 sales records to understand sales performance across product lines, deal sizes, countries, and years.
 
@@ -28,4 +26,5 @@ Analyzed 2,824 sales records to understand sales performance across product line
 - Sales peaked in 2004 ($4.7M)
 
 ## Screenshot
-![Dashboard](sales_performance_dashboard.png)
+<img width="1075" height="593" alt="image" src="https://github.com/user-attachments/assets/1d5a5472-d2fc-4b56-b8c7-567d6cc4595f" />
+
